@@ -1,2 +1,2 @@
 # Challenge2_GitHub_Upload
-Module 2 
+Module 2 Challenge
